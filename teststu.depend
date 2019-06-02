@@ -1,0 +1,106 @@
+# depslib dependency file v1.0
+1559387630 source:c:\users\81418\desktop\stumanager\teststu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
+1559392916 source:c:\users\81418\desktop\teststu\teststu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"my.h"
+
+1559391728 c:\users\81418\desktop\teststu\teststu\my.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
+1559391684 source:c:\users\81418\desktop\teststu\teststu\stu1.c
+	"my.h"
+
+1559391852 source:c:\users\81418\desktop\teststu\teststu\stu2.c
+	"my.h"
+
+1559391728 source:c:\users\81418\desktop\teststu\teststu\my.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
+1559392914 source:c:\users\81418\desktop\teststu\teststu\stu3.c
+	"my.h"
+
+1559393009 source:c:\users\81418\desktop\teststu\teststu\stu4.c
+	"my.h"
+
+1559393078 source:c:\users\81418\desktop\teststu\teststu\stu5.c
+	"my.h"
+
+1559393440 source:c:\users\81418\desktop\teststu\teststu\stu6.c
+	"my.h"
+
+1559393502 source:c:\users\81418\desktop\teststu\teststu\stu7.c
+	"my.h"
+
+1559394842 source:c:\users\81418\desktop\teststu\teststu\menu.c
+	"my.h"
+
+1559393848 source:c:\users\81418\desktop\teststu\teststu\mscore.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"my.h"
+
+1559394433 source:c:\users\81418\desktop\teststu\teststu\utils.c
+	"my.h"
+
+1559394842 source:c:\users\81418\desktop\ÕõÇ®Ğ´µÄ³ÌĞò\teststu\teststu\menu.c
+	"my.h"
+
+1559391728 c:\users\81418\desktop\ÕõÇ®Ğ´µÄ³ÌĞò\teststu\teststu\my.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
+1559393848 source:c:\users\81418\desktop\ÕõÇ®Ğ´µÄ³ÌĞò\teststu\teststu\mscore.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"my.h"
+
+1559391728 source:c:\users\81418\desktop\ÕõÇ®Ğ´µÄ³ÌĞò\teststu\teststu\my.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
+1559391684 source:c:\users\81418\desktop\ÕõÇ®Ğ´µÄ³ÌĞò\teststu\teststu\stu1.c
+	"my.h"
+
+1559391852 source:c:\users\81418\desktop\ÕõÇ®Ğ´µÄ³ÌĞò\teststu\teststu\stu2.c
+	"my.h"
+
+1559392914 source:c:\users\81418\desktop\ÕõÇ®Ğ´µÄ³ÌĞò\teststu\teststu\stu3.c
+	"my.h"
+
+1559393009 source:c:\users\81418\desktop\ÕõÇ®Ğ´µÄ³ÌĞò\teststu\teststu\stu4.c
+	"my.h"
+
+1559393078 source:c:\users\81418\desktop\ÕõÇ®Ğ´µÄ³ÌĞò\teststu\teststu\stu5.c
+	"my.h"
+
+1559393440 source:c:\users\81418\desktop\ÕõÇ®Ğ´µÄ³ÌĞò\teststu\teststu\stu6.c
+	"my.h"
+
+1559393502 source:c:\users\81418\desktop\ÕõÇ®Ğ´µÄ³ÌĞò\teststu\teststu\stu7.c
+	"my.h"
+
+1559394433 source:c:\users\81418\desktop\ÕõÇ®Ğ´µÄ³ÌĞò\teststu\teststu\utils.c
+	"my.h"
+
